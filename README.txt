@@ -1,11 +1,5 @@
-DP Year Interactive Web
+DP Year Interactive Web - No Trainer Prompts
 
-Files:
-- index.html : Main HTML structure
-- styles.css : All visual design and responsive layout
-- app.js : Interactive presentation, workbook saving, export, print, trainer notes
+Open index.html in a browser. Keep index.html, styles.css and app.js in the same folder.
 
-How to use:
-1. Keep all three files in the same folder.
-2. Open index.html in a browser.
-3. For GitHub Pages, upload all three files to the repository root or a folder and set Pages to serve that location.
+This version removes trainer story prompts/notes from the visible interface while keeping the interactive slides, workbook, export, print, audience view and fullscreen functions.
